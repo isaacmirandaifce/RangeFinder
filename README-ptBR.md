@@ -113,6 +113,7 @@ LZR.begin(115200, …)
 ## Agradecimentos
 
 Ao autor[Andres-ros](https://github.com/Andres-ros/laser-m01-esp32).
+
 Agradecimento especial à **Liancheng Electronics (Shenzhen) Co., Ltd. Store**, que forneceu o esquema de cores do cabo e auxiliou na solução dos problemas de conexão RX/TX.
 
 **Link de compra:**

@@ -1,4 +1,4 @@
-# Trena optica baseada no Laser-m01-esp32
+# Trena óptica baseada no Laser-m01-esp32
 Integração de um módulo de medição de distância a laser de alta precisão em placas de desenvolvimento **ESP32**.
 
 Fork do repositório de [Andres-ros](https://github.com/Andres-ros/laser-m01-esp32)
